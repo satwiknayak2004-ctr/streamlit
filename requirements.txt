@@ -1,0 +1,12 @@
+
+streamlit
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+shap
+pyngrok
+matplotlib
+pickle5
