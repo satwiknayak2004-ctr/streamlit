@@ -1,4 +1,3 @@
-
 streamlit
 numpy
 pandas
@@ -7,6 +6,4 @@ xgboost
 lightgbm
 imbalanced-learn
 shap
-pyngrok
 matplotlib
-pickle5
